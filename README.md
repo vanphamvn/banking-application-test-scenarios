@@ -19,3 +19,15 @@ A banking application is a software that enables users to perform various financ
 - Verify that the user cannot perform any unauthorized or fraudulent transactions or access any sensitive information of other users or accounts.
 
 - Verify that the banking application is compatible with different browsers, devices, operating systems and network conditions.
+
+**Some steps on how to write test cases for a banking application:**
+
+- Review the requirements and specifications of the banking application and understand the features and functionalities that need to be tested.
+- Divide the features and functionalities into modules or categories, such as account creation, login, transactions, settings, etc.
+- For each module or category, identify the positive and negative test scenarios that cover all the possible user actions and outcomes.
+- For each test scenario, write a clear and concise test case title that describes what is being tested.
+- For each test case, specify the input data, such as username, password, amount, etc., that are required to execute the test scenario.
+- For each test case, specify the preconditions and postconditions that need to be met before and after executing the test scenario.
+- For each test case, specify the expected result or outcome that should match with the actual result or outcome after executing the test scenario.
+- For each test case, assign a priority level (high/medium/low) based on the importance and impact of the feature or functionality being tested.
+- For each test case, assign an execution status (pass/fail/skip) based on whether it meets or fails to meet the expected result.
